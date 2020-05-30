@@ -6,4 +6,4 @@
  Brooklyn99: 
  Web scraping, Text Analysis and Visualization
 
-Go to relevant branch and check them out
+Go to relevant branch and check it out
